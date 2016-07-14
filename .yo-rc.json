@@ -1,0 +1,30 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Jim Geoshua P. Bactad",
+        "email": "joshjim27@gmail.com"
+      },
+      "libraryName": {
+        "original": "angular-multiselect-checklist",
+        "camelized": "angularMultiselectChecklist",
+        "dasherized": "angular-multiselect-checklist",
+        "slugified": "angular-multiselect-checklist",
+        "parts": [
+          "angular",
+          "multiselect",
+          "checklist"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": false,
+      "includeModuleServices": false,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/angular-multiselect-checklist",
+      "libraryUnitTestDirectory": "test/unit/angular-multiselect-checklist",
+      "libraryUnitE2eDirectory": "test/e2e/angular-multiselect-checklist"
+    }
+  }
+}
